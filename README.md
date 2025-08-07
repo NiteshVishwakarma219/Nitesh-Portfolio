@@ -8,7 +8,7 @@ HTML5, CSS3, JavaScript
 
 Responsive Design
 
-Typing Animation using Typed.js
+Typing Animation
 
 Contact Form with Formspree or Google Forms
 
